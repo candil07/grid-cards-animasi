@@ -1,5 +1,7 @@
 # grid-cards-animasi
-grid cards animasi responsive with html and css: https://www.youtube.com/watch?v=7zYKjh1Ikj4
+![grid-cards](https://user-images.githubusercontent.com/52884009/201601145-12b33b41-382e-40f5-8ade-8f42d4a39837.jpg)
+
+DEMO grid cards animasi responsive with html and css: https://www.youtube.com/watch?v=7zYKjh1Ikj4
 
 ➤➤ GABUNG GRUP TELEGRAM KAMI: https://t.me/candilcode
 
